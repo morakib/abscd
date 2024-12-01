@@ -1,0 +1,7 @@
+Enter size of the array: Brute-Force Approach:
+Max: 10, Min: 1
+Time taken: 0 seconds
+
+Divide-and-Conquer Approach:
+Max: 10, Min: 1
+Time taken: 0 seconds
